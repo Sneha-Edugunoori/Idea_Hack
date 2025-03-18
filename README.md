@@ -1,4 +1,3 @@
-# Idea_Hack
 # Idea Hackathon
 
 ## Team: Algorithm Artisans
